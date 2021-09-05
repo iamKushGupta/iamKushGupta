@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamKushGupta
 - 👀 I’m interested in Open Source and various langues that help enalbe various task more efficiently.
-- 🌱 I’m currently learning Python, C, C++, SQL, JavaScript, React and exploring webDev and Open-Source avenues.
+- 🌱 I’m currently learning Python, C, C++, MySQL, Java, and exploring webDev and Open-Source avenues.
 - 💞️ I’m looking to collaborate on projects that operate with Python, C and C++ primarily.
 - 📫 How to reach me ...
     - Well, text me here or connect with me on LinkedIn ---> https://www.linkedin.com/in/kushgupta0117/
