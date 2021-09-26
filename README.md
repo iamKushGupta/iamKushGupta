@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkushgupta&label=Profile%20views&color=00ff33&style=flat" alt="iamkushgupta" /> </p>
 
-- 🌱 I’m currently learning **CSS, HTML5, WebDev and Cloud Frameworks, NodeJS, TensorFlow, OpenCV**
+- 🌱 I’m currently learning **Firebase, Django, CSS, HTML5, WebDev and Cloud Frameworks, NodeJS, TensorFlow, OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamKushGupta](https://github.com/iamKushGupta)
 
