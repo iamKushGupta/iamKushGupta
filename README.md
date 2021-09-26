@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Kush Gupta</h1>
-<h3 align="center">I am an inquisitive developer from India.</h3>
+<h3 align="center">and I an inquisitive developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkushgupta&label=Profile%20views&color=00ff33&style=flat" alt="iamkushgupta" /> </p>
 
