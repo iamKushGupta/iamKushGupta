@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkushgupta&label=Profile%20views&color=00ff33&style=flat" alt="iamkushgupta" /> </p>
 
-- 🌱 I’m currently learning **Firebase, Django, CSS, WebDev and Cloud Frameworks, NodeJS, TensorFlow, OpenCV**
+- 🌱 I’m currently learning **ReactJS, CSS, WebDev & Cloud Frameworks, NodeJS, TensorFlow, OpenCV, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamKushGupta](https://github.com/iamKushGupta)
 
-- 💬 Ask me about **C, C++, Python, Java, JavaScript, MySQL, MatLab, HTML5**
+- 💬 Ask me about **C, C++, Python + Django, Java, JavaScript, MySQL, MatLab, HTML5, Firebase**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kushgupta0117/**
 
