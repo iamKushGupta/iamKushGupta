@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamKushGupta](https://github.com/iamKushGupta)
 
-- 💬 Ask me about **C, C++, Python, Java, MySQL, MatLab, HTML5**
+- 💬 Ask me about **C, C++, Python, Java, JavaScript, MySQL, MatLab, HTML5**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kushgupta0117/**
 
