@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkushgupta&label=Profile%20views&color=00ff33&style=flat" alt="iamkushgupta" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, CSS, WebDev & Cloud Frameworks, NodeJS, TensorFlow, OpenCV, Docker**
+- 🌱 I’m currently learning **TensorFlow, OpenCV, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamKushGupta](https://github.com/iamKushGupta)
 
-- 💬 Ask me about **C, C++, Python + Django, Java, JavaScript, MySQL, MatLab, HTML5, Firebase**
+- 💬 Ask me about **C, C++, Python + Django, Java, HTML + CSS, Cloud Frameworks, NodeJS, MySQL, MatLab, Firebase**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kushgupta0117/**
 
-- ⚡ Fun fact **I love reading.**
+- ⚡ Fun fact **I love reading (literally anything ! {Preferably novels though 😅}).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
