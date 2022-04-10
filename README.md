@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkushgupta&label=Profile%20views&color=00ff33&style=flat" alt="iamkushgupta" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow, OpenCV, Docker**
+- 🌱 I’m currently learning **TensorFlow, OpenCV, Docker, Advanced Javascript, Computer Networks and Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamKushGupta](https://github.com/iamKushGupta)
 
